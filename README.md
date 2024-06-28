@@ -12,5 +12,5 @@ Hi, I'm Niels 👋
 - **Investment Strategy Simulator**: A tool for simulating and backtesting various investment strategies.
 
 
-- [LinkedIn](www.linkedin.com/in/niels-due-jensen)
+- [LinkedIn](https://www.linkedin.com/in/niels-due-jensen)
 - [Email](nielsduejensen@outlook.com)
