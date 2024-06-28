@@ -13,4 +13,4 @@ Hi, I'm Niels 👋
 
 
 - [LinkedIn](https://www.linkedin.com/in/niels-due-jensen)
-- [Email](nielsduejensen@outlook.com)
+- [Email](mailto:nielsduejensen@outlook.com)
