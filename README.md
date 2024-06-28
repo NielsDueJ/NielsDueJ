@@ -2,7 +2,8 @@
 
 Hi, I'm Niels 👋
 
-🎓 Master of Finance  
+🎓 MSc Finance & International Business
+  EDHEC Business School MSc Finance alumni
 👨‍💻 Young corporate finance and fintech professional  
 🌱 I’m currently working on portfolio management projects.  
 🇩🇰 Denmark
