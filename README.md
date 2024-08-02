@@ -17,3 +17,6 @@ Hi, I'm Niels 👋
 
 - [LinkedIn](https://www.linkedin.com/in/niels-due-jensen)
 - [Email](mailto:nielsduejensen@outlook.com)
+
+## To come
+Sensitivity analysis, simulation of stocks, options, and futures, estimating the price of an option using simulation, hedging,
