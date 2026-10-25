@@ -1,20 +1,14 @@
-## Hi there 👋
+# Niels Due Jensen
 
-Hi, I'm Niels 
+MSc in Finance & International Business. Corporate finance and fintech, now working in portfolio management with an active approach to equities and credit, and as a trader.
 
-🎓 MSc Finance & International Business\
-👨‍💻 Young corporate finance and fintech professional  
-🌱 I’m currently working on portfolio management projects.
+The repositories here are academic assignments and a few projects built for fun.
 
+## Selected work
 
-- **Risk Analysis**: Using API's to fetch data on historic prices of stocks in my portfolio. Carrying out backtesting to derive expected Max Drawdown.
-- **Watchlist**: Using API's to fetch data on the stocks on my watchlist. Allows me to quickly gain an overview of the stock's performance.
-- **Fundamental analysis**: Using API's to fetch data and perform fundamental analysis on stocks from my watchlist.
-- **Portfolio Optimization**: Using simulation to optimize portfolios following the Max Sharpe and Min Volatility allocation methods. Data is gathered from Danish pension funds' holding and exclusion lists.
+- [Risk-Metrics](https://github.com/NielsDueJ/Risk-Metrics): drawdown, VaR and CVaR for portfolios
+- [Regime-Based-Investment-Model](https://github.com/NielsDueJ/Regime-Based-Investment-Model): portfolio optimisation across market regimes
+- [Basics-of-Modern-Portfolio-Theory](https://github.com/NielsDueJ/Basics-of-Modern-Portfolio-Theory): mean-variance optimisation and the efficient frontier
+- [Max-Sharpe-Min-Vol-Portfolio-Allocation](https://github.com/NielsDueJ/Max-Sharpe-Min-Vol-Portfolio-Allocation): Monte Carlo portfolio allocation
 
-
-- [LinkedIn](https://www.linkedin.com/in/niels-due-jensen)
-- [Email](mailto:nielsduejensen@outlook.com)
-
-## To come
-Sensitivity analysis, simulation of stocks, options, and futures, estimating the price of an option using simulation, hedging,
+[LinkedIn](https://www.linkedin.com/in/niels-due-jensen) · [Email](mailto:nielsduejensen@outlook.com)
